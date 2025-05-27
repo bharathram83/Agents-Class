@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+numpy
+python-dotenv
+openpyxl
+prophet
+groq
